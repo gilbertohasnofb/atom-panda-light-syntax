@@ -1,0 +1,22 @@
+{
+  "bugs": {
+    "url": "https://github.com/gilbertohasnofb/atom-panda-light-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "Light syntax theme inspired by Siamak Mokhtari's Panda Theme",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">= 1.13"
+  },
+  "homepage": "https://github.com/gilbertohasnofb/atom-panda-light-syntax#readme",
+  "name": "atom-panda-light-syntax",
+  "optionalDependencies": {},
+  "readme": "## Panda Light Theme\n\nA theme for Atom.\n\nLight syntax theme inspired by Siamak Mokhtari's [Panda Theme](https://github.com/siamak/atom-panda-light-syntax).\n\n![atom-panda-light-syntax](https://raw.githubusercontent.com/gilbertohasnofb/atom-panda-light-syntax/master/atom-panda-light-syntax-screenshot.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gilbertohasnofb/atom-panda-light-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.0.0"
+}
